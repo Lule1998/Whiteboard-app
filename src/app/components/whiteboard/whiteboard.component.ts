@@ -1,4 +1,4 @@
-// src/app/whiteboard/whiteboard.component.ts
+
 
 import { Component, ElementRef, ViewChild, AfterViewInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
